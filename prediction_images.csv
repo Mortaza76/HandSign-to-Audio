@@ -1,0 +1,4 @@
+filename,predicted_class,confidence
+Water_0616.jpg,Water,0.9994935989379883
+Me_1145.jpg,Me,0.9999873638153076
+Drink_0039.jpg,Drink,0.9995978474617004
